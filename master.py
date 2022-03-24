@@ -1,0 +1,2 @@
+def master():
+    print("HELLO")

@@ -1,2 +1,2 @@
-def main():
-	print("HELLO")
+def edge():
+    print("HELLO")
